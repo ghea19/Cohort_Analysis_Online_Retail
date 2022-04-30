@@ -23,5 +23,8 @@ g. CustomerID: Customer number. Nominal, a 5-digit integral number uniquely assi
 
 h. Country: Country name. Nominal, the name of the country where each customer resides.
 
+Visualisation Result of Cohort Analysis
+<img width="584" alt="image" src="https://user-images.githubusercontent.com/103866025/166110815-645c08cc-8eae-454c-861e-964583798f61.png">
+
 The conclusion of this project:
 In November 2011 there was a decrease in the number of customers (only 13% customers retain with us until 2 months). Marketing analysis or product analysts may be able to look back at what promotional strategies were used for customers in January 2011 (29% customers retain with us until 12 months), where the percent number of customers in that month was quite high and stable.

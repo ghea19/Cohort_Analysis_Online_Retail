@@ -8,12 +8,19 @@ The aim of this project is to know user retention rate using cohort analysis and
 The description of all the features is given below: (data source https://www.kaggle.com/code/ersany/customer-segmentation-with-rfm-analysis-cohort-an/data)
 
 a. InvoiceNo: Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation.
+
 b. StockCode: Product (item) code. Nominal, a 5-digit integral number uniquely assigned to each distinct product.
+
 c. Description: Product (item) name. Nominal.
+
 d. Quantity: The quantities of each product (item) per transaction. Numeric.
+
 e. InvoiceDate: Invoice Date and time. Numeric, the day and time when each transaction was generated.
+
 f. UnitPrice: Unit price. Numeric, Product price per unit in sterling.
+
 g. CustomerID: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer.
+
 h. Country: Country name. Nominal, the name of the country where each customer resides.
 
 The conclusion of this project:
